@@ -19,7 +19,7 @@ const Contacts = () => {
   return (
     <>
       <Heading as="h1" size="lg" textAlign="center" p="4">
-        My Contacts Book
+        My DREAM
       </Heading>
       <AddContact />
       <Filter />
